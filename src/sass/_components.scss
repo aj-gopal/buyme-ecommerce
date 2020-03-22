@@ -1,0 +1,51 @@
+// Buttons
+
+.btn {
+  padding: 0.5em 1em;
+  transition: all 0.2s ease-in;
+  &-primary {
+    border-color: #000;
+    background-color: transparent;
+    color: black;
+
+    &:hover {
+      background-color: black;
+      color: white;
+    }
+  }
+  &-secondary {
+  }
+}
+
+.product {
+  padding-bottom: 2rem;
+  .product-image {
+    margin-bottom: 10px;
+  }
+
+  .product-link {
+    position: relative;
+    display: inline-block;
+    &:hover {
+      text-decoration: none;
+      color: black;
+    }
+    &:hover .product-name:before {
+      @include custom-underline(black);
+    }
+  }
+
+  .product-name {
+    color: #000;
+    padding-bottom: 5px;
+    margin-bottom: 0;
+    font-size: 1rem;
+    @include breakpoint(large-phone) {
+        font-size: 1.25rem;
+    }
+  }
+
+  .product-price {
+    display: block;
+  }
+}

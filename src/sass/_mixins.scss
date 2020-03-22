@@ -1,0 +1,34 @@
+// Media breakpoints
+
+@mixin breakpoint($size) {
+  @if $size == desktop {
+    @media screen and (min-width: 60em) {
+      @content;
+    }
+  }
+  @if $size == tablet {
+    @media screen and (min-width: 45em) {
+      @content;
+    }
+  }
+  @if $size == large-phone {
+    @media screen and (min-width: 30em) {
+      @content;
+    }
+  }
+  @if $size == phone {
+    @media screen and (min-width: 20em) {
+      @content;
+    }
+  }
+}
+
+@mixin custom-underline($color) {
+  content: "";
+  position: absolute;
+  top: 90%;
+  left: 0;
+  background-color: $color;
+  width: 100%;
+  height: 2px;
+}

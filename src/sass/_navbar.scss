@@ -1,0 +1,50 @@
+.navbar {
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  z-index: 999;
+  @include breakpoint(desktop) {
+    padding: 0.75rem 3rem;
+  }
+
+  .form-inline {
+    position: relative;
+    width: 100%;
+    @include breakpoint(tablet) {
+      margin-left: 3rem;
+    }
+    @include breakpoint(desktop) {
+      width: 30%;
+    }
+    .form-control {
+      width: 100%;
+    }
+    input:focus {
+      box-shadow: 0 0 0 0.2rem rgba(black, 0.5);
+    }
+    button {
+      position: absolute;
+      right: 7px;
+      border: none;
+      &:before {
+        content: "\f002";
+        font-family: FontAwesome;
+      }
+    }
+  }
+
+  .nav-item {
+    margin: 0 0.5rem;
+    position: relative;
+    .nav-link {
+      position: relative;
+      color: rgba(white, 0.8);
+
+      &.active:before {
+        @include custom-underline(white);
+      }
+    }
+  }
+}

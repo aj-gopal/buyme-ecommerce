@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "category": "Shirts",
+      "id": 1,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110
+    },
+    {
+      "category": "Shoes",
+      "id": 2,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 91
+    },
+    {
+      "category": "Accessories",
+      "id": 3,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE RIGID BAG",
+      "price": 94.5
+    },
+    {
+      "category": "Accessories",
+      "id": 4,
+      "imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "GUESS CONNECT WATCH",
+      "price": 438.9
+    },
+    {
+      "category": "Accessories",
+      "id": 5,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 20
+    },
+    {
+      "category": "Shirts",
+      "id": 6,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "PRINT SHIRT",
+      "price": 130
+    },
+    {
+      "category": "Shoes",
+      "id": 7,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "SNEAKER",
+      "price": 91
+    },
+    {
+      "category": "Accessories",
+      "id": 8,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "CATE BAG",
+      "price": 94.5
+    },
+    {
+      "category": "Accessories",
+      "id": 9,
+      "imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "WATCH",
+      "price": 438.9
+    },
+    {
+      "category": "Accessories",
+      "id": 10,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "GLAM KEFIAH",
+      "price": 20
+    },
+    {
+      "category": "Shirts",
+      "id": 11,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "SHIRT",
+      "price": 110
+    },
+    {
+      "category": "Shoes",
+      "id": 12,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "LOGO SNEAKER",
+      "price": 91
+    },
+    {
+      "category": "Accessories",
+      "id": 13,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "RIGID BAG",
+      "price": 94.5
+    },
+    {
+      "category": "Accessories",
+      "id": 14,
+      "imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CONNECT WATCH",
+      "price": 438.9
+    },
+    {
+      "category": "Accessories",
+      "id": 15,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "RETRO GLAM KEFIAH",
+      "price": 20
+    },
+    {
+      "category": "Shirts",
+      "id": 16,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "CHECKED SHIRT",
+      "price": 110
+    },
+    {
+      "category": "Shoes",
+      "id": 17,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "GLORIA LOGO SNEAKER",
+      "price": 91
+    },
+    {
+      "category": "Accessories",
+      "id": 18,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "NICE BAG",
+      "price": 94.5
+    },
+    {
+      "category": "Accessories",
+      "id": 19,
+      "imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "GUESS WATCH",
+      "price": 438.9
+    },
+    {
+      "category": "Accessories",
+      "id": 20,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "'70s GLAM KEFIAH",
+      "price": 20
+    },
+    {
+      "category": "Shirts",
+      "id": 21,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "AWESOME SHIRT",
+      "price": 110
+    },
+    {
+      "category": "Shoes",
+      "id": 22,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "BEAUTIFUL SNEAKER",
+      "price": 91
+    },
+    {
+      "category": "Accessories",
+      "id": 23,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "WOMAN'S BAG",
+      "price": 94.5
+    },
+    {
+      "category": "Accessories",
+      "id": 24,
+      "imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "DECENT WATCH",
+      "price": 438.9
+    },
+    {
+      "category": "Accessories",
+      "id": 25,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "THE KEFIAH",
+      "price": 20
+    },
+    {
+      "category": "Shirt",
+      "id": 26,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "WHATEVER SHIRT",
+      "price": 110
+    },
+    {
+      "category": "Shoes",
+      "id": 27,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "COLOR SHOES",
+      "price": 91
+    },
+    {
+      "category": "Accessories",
+      "id": 28,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "HANDBAG",
+      "price": 94.5
+    },
+    {
+      "category": "Accessories",
+      "id": 29,
+      "imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "name": "ROLEX LIKE",
+      "price": 438.9
+    },
+    {
+      "category": "Accessories",
+      "id": 30,
+      "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+      "name": "SCARF",
+      "price": 20
+    }
+  ]
+}
